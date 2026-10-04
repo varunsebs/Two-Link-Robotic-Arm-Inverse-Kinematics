@@ -2,6 +2,7 @@
 # the connecting point between each arm is called as the Elbow point.
 # the end point of the second link (hand) is the end effector.
 
+#imports
 import matplotlib
 matplotlib.use('TkAgg')
 import math
